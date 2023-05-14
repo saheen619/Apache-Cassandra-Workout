@@ -1,0 +1,2 @@
+Database Name = cassandra-db
+KeySpace Name = test_keyspace

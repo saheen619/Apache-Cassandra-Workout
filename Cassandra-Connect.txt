@@ -1,2 +1,3 @@
 # Open this link for DataStax Cassandra
-http://surl.li/bwzmt
+
+https://www.datastax.com/products/datastax-astra
